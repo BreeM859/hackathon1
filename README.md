@@ -1,5 +1,5 @@
 Welcome to the **Portfolio Building Hackathon** project! 🚀  
-This repository contains the work for Isaac's portfolio challenge as part of the **S-Hook Hackathon 1: Portfolio Challenge**.
+This repository contains the work for Brian's portfolio challenge as part of the Portfolio Challenge**.
 
 Link: 
 
